@@ -72,7 +72,6 @@ endif()
 # Print build configuration
 # ==========================
 
-message(STATUS "XEUS_ZMQ_DISABLE_ARCH_NATIVE:        ${XEUS_ZMQ_DISABLE_ARCH_NATIVE}")
 message(STATUS "XEUS_ZMQ_BUILD_SHARED_LIBS:          ${XEUS_ZMQ_BUILD_SHARED_LIBS}")
 message(STATUS "XEUS_ZMQ_BUILD_STATIC_LIBS:          ${XEUS_ZMQ_BUILD_STATIC_LIBS}")
 message(STATUS "XEUS_ZMQ_STATIC_DEPENDENCIES:        ${XEUS_ZMQ_STATIC_DEPENDENCIES}")  
